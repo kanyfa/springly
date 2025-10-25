@@ -1,0 +1,10 @@
+c:\client\src\main\java\com\bank\demo\entity\Client.java
+c:\client\src\main\java\com\bank\demo\DemoApplication.java
+c:\client\src\main\java\com\bank\demo\service\ClientService.java
+c:\client\src\main\java\com\bank\demo\service\AccountService.java
+c:\client\src\main\java\com\bank\demo\config\SecurityConfig.java
+c:\client\src\main\java\com\bank\demo\exception\GlobalExceptionHandler.java
+c:\client\src\main\java\com\bank\demo\repository\AccountRepository.java
+c:\client\src\main\java\com\bank\demo\repository\ClientRepository.java
+c:\client\src\main\java\com\bank\demo\entity\Account.java
+c:\client\src\main\java\com\bank\demo\controller\BankController.java

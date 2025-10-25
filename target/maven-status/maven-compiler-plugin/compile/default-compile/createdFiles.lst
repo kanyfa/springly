@@ -1,0 +1,10 @@
+com\bank\demo\entity\Client.class
+com\bank\demo\service\AccountService.class
+com\bank\demo\service\ClientService.class
+com\bank\demo\exception\GlobalExceptionHandler.class
+com\bank\demo\controller\BankController.class
+com\bank\demo\repository\ClientRepository.class
+com\bank\demo\DemoApplication.class
+com\bank\demo\repository\AccountRepository.class
+com\bank\demo\entity\Account.class
+com\bank\demo\config\SecurityConfig.class
